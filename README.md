@@ -65,10 +65,10 @@ Project 3: Model Preparation & Prediction
 
 **Contributors**
 
-Abi Afolabi - 
+Abi Afolabi - aafolabi@norquest.ca
 
-Abiola Bakare -
+Abiola Bakare - abakare69@norquest.ca
 
-Enkeshie Parris -
+Enkeshie Parris - eparris@NorQuest.ca
 
-Ruth Olasupo -
+Ruth Olasupo - rolasupo@NorQuest.ca
